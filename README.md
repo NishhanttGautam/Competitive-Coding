@@ -1,2 +1,2 @@
-# DSA-Codes
+# Competitive-Coding
 Amazon SDE Test series.
